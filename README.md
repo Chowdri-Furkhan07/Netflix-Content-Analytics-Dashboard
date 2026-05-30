@@ -182,6 +182,7 @@ This project is licensed under the MIT License.
 # 👨‍💻 Author
 
 **Chowdri Furkhan**
+
 Data Analyst | AI/ML Enthusiast
 
 ---
