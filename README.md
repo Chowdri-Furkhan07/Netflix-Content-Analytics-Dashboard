@@ -127,7 +127,7 @@ The dataset contains Netflix Movies & TV Shows metadata including:
 ## 1️⃣ Download the Repository
 
 ```bash
-git clone https://github.com/Gayathri-Reddy874/netflix-dashboard-powerbi.git
+git clone https://github.com/Chowdri-Furkhan07/Netflix-Content-Analytics-Dashboard.git
 ```
 
 ## 2️⃣ Open Power BI File
@@ -181,7 +181,7 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Mallareddygari Gayathri**
+**Chowdri Furkhan**
 Data Analyst | AI/ML Enthusiast
 
 ---
